@@ -2,8 +2,8 @@
 
 A React + TypeScript build of **HomeSync**, a share-house coordination app I first designed as a Figma prototype for DESN2000 (UNSW). It has fair chore sharing, house rules kept in one place, and low-confrontation issue reporting, for both share houses and residential colleges.
 
-**Live demo:** _add your Vercel link here_
-**Figma prototype:** _add your Figma link here_
+**Live demo:** https://homesync-beige.vercel.app
+**Figma prototype:** https://www.figma.com/design/ZXIHD193CZjv4o6UlJU6A8/desn-prototyping?node-id=384-1130&t=5n5zVucPO7VcuE3k-1
 
 ## Features
 
